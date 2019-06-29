@@ -1,0 +1,8 @@
+D:\blockChain\vietkoing\vietkoing\bin\Debug\netcoreapp2.2\vietkoing.deps.json
+D:\blockChain\vietkoing\vietkoing\bin\Debug\netcoreapp2.2\vietkoing.runtimeconfig.json
+D:\blockChain\vietkoing\vietkoing\bin\Debug\netcoreapp2.2\vietkoing.runtimeconfig.dev.json
+D:\blockChain\vietkoing\vietkoing\bin\Debug\netcoreapp2.2\vietkoing.dll
+D:\blockChain\vietkoing\vietkoing\obj\Debug\netcoreapp2.2\vietkoing.csprojAssemblyReference.cache
+D:\blockChain\vietkoing\vietkoing\obj\Debug\netcoreapp2.2\vietkoing.csproj.CoreCompileInputs.cache
+D:\blockChain\vietkoing\vietkoing\obj\Debug\netcoreapp2.2\vietkoing.AssemblyInfoInputs.cache
+D:\blockChain\vietkoing\vietkoing\obj\Debug\netcoreapp2.2\vietkoing.AssemblyInfo.cs
